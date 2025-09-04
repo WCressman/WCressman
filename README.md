@@ -1,7 +1,10 @@
-William Cressman
+Will Cressman
+
  - Climber 🧗‍♂️ and Ski instructor 🎿
  - 🌱 Learning by creating projects
- - 📫 Canadian 🇨🇦, 17 y/o
+ - 📫 Canadian 🇨🇦, 18 y/o
+ - 📖 Student at Wilfred Laurier University
+ - 🏫 Gradute from Lycee Claudel
 
 <!---
 WCressman/WCressman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
