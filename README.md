@@ -3,7 +3,7 @@
  - 🎿 Ski instructor
  - 🌱 Learning by creating projects
  - 📫 Canadian 🇨🇦, 19 y/o
- - 📖 Student at Wilfred Laurier University
+ - 📖 CS Student at University of Waterloo
  - 🏫 Graduate from Lycee Claudel
 
 <!---
